@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e1a2f673.chunk.js",
+    "main.js.map": "/static/js/main.e1a2f673.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f179080.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f179080.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.978cafdb.chunk.js": "/static/js/2.978cafdb.chunk.js",
+    "static/js/2.978cafdb.chunk.js.map": "/static/js/2.978cafdb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/js/2.978cafdb.chunk.js.LICENSE.txt": "/static/js/2.978cafdb.chunk.js.LICENSE.txt",
+    "static/media/behemoth-black-hole-found-in-an-unlikely-place.08af51b0.jpg": "/static/media/behemoth-black-hole-found-in-an-unlikely-place.08af51b0.jpg",
+    "static/media/wp-png.4b77655d.png": "/static/media/wp-png.4b77655d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f179080.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.978cafdb.chunk.js",
+    "static/js/main.e1a2f673.chunk.js"
+  ]
+}
